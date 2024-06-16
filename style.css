@@ -48,9 +48,9 @@ body {
     color: white;
     animation: fadeIn 3s linear infinite;
   }
-  .rrr{
+  /* .rrr{
     margin-left: 500px;
-  }
+  } */
   
   #staryellow1 {
     padding: 0;
@@ -86,11 +86,11 @@ body {
     color: white;
     animation: fadeIn 2s ease infinite;
   }
-  .balloooon
-  {
+  /* .balloooon
+  /* {
     margin-left: 500px;
-  }
-  
+  } */
+   */
   /*************************/
   
   /* Animation */
@@ -225,9 +225,9 @@ section{
   
 
 }
-.card{
+/* .card{
   margin-left: 500px;
-}
+} */
 .content img{
   width:30px;
   height:40px;
@@ -467,7 +467,7 @@ button{
   transform: rotateY(180deg);
 }
 .card1{
-  margin-left: 600px;
+  /* margin-left: 600px; */
   margin-top: 50px;
 }
 #aud {
